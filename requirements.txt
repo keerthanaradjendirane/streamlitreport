@@ -1,0 +1,11 @@
+opencv-python
+Pillow
+ultralytics
+pytesseract
+PyMuPDF
+joblib
+pandas
+streamlit
+python-docx
+cohere
+torch
