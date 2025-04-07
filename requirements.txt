@@ -9,3 +9,4 @@ streamlit
 python-docx
 cohere
 torch
+scikit-learn
